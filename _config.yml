@@ -1,0 +1,12 @@
+# Site settings
+title: UC3Music
+email: uc3music@gmail.com
+description: 
+    Asociación universitaria. Música, cacharros y ruido, aunque no necesariamente en este orden.
+baseurl: ""
+url: "http://uc3music.github.io" 
+twitter_username: UC3Music
+github_username:  uc3music
+
+# Build settings
+markdown: kramdown
