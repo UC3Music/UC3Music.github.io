@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Amplificadores
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: El amplificador uC3Moy es una versión del famoso circuito CMoy, diseñado por Chu Moy. Su funcionamiento y construcción es muy sencilla, y además de ofrecerte más volumen consigue reducir la compresión y bajar las distorsiones. Esto lo conseguimos adaptando impedancias y dejando el trabajo duro a nuestro amplificador, liberando la carga de nuestro reproductor.
 
 ---
