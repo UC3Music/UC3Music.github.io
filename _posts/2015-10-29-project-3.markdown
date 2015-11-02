@@ -1,0 +1,15 @@
+---
+title: Shiva
+subtitle: Batería electrónica MIDI
+layout: default
+modal-id: 3
+date: 2015-10-29
+img: shiva.png
+thumbnail: shiva-thumbnail.png
+alt: image-alt
+project-date: Octubre 2015
+link: https://github.com/UC3Music/Shiva
+category: Intrumentos DIY
+description: ¡Convierte cualquier objeto en una batería! Shiva es una batería electrónica DIY. A través de sensores piezoeléctricos de pinza (como los afinadores de guitarra) es capaz de detectar golpes en los objectos a los que está conectado, emitiendo notas MIDI. Dispone de conexión MIDI tanto por USB como por conector DIN 5.
+
+---
