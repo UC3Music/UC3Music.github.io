@@ -1,0 +1,30 @@
+<section id="contacta">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Contacta con nosotros</h2>
+                    <h3 class="section-subheading text-muted">Forma parte de nuestra asociación y ponte manos a la obra.</h3>
+                </div>
+            </div>
+            <div class="row">
+		<div class="col-lg-12 text-center">
+			<ul class="list-inline">
+				{% for network in site.social %}
+				<li><a href="{{network.url}}"><i class="fa fa-{{ network.title }}"></i></a><li>
+				{% endfor %}
+			</ul>
+			<ul class="list-inline social-buttons">
+				{% for network in site.social %}
+				<li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+				</li>
+				{% endfor %}
+			</ul>
+		</div>
+            </div>
+	    <div class="row">
+		<div class="col-lg-12 text-center">
+			<h3 class="section-subheading text-muted">Despacho: 2.3.A09</h3>
+		</div>
+	    </div>
+        </div>
+    </section>
