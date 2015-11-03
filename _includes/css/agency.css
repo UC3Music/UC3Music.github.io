@@ -655,7 +655,7 @@ aside.clients img {
     margin: 50px auto;
 }
 
-section#contacta {
+section#contactanos {
     background-color: #222;
 	/* 222 */
     /*background-image: url(../img/map-image.png);
@@ -663,61 +663,61 @@ section#contacta {
     background-repeat: no-repeat;*/
 }
 
-section#contacta .section-heading {
+section#contactanos .section-heading {
     color: #fff;
 }
 
-section#contacta .form-group {
+section#contactanos .form-group {
     margin-bottom: 25px;
 }
 
-section#contacta .form-group input,
-section#contacta .form-group textarea {
+section#contactanos .form-group input,
+section#contactanos .form-group textarea {
     padding: 20px;
 }
 
-section#contacta .form-group input.form-control {
+section#contactanos .form-group input.form-control {
     height: auto;
 }
 
-section#contacta .form-group textarea.form-control {
+section#contactanos .form-group textarea.form-control {
     height: 236px;
 }
 
-section#contacta .form-control:focus {
+section#contactanos .form-control:focus {
     border-color: #{{ site.color.primary }};
     box-shadow: none;
 }
 
-section#contacta::-webkit-input-placeholder {
+section#contactanos::-webkit-input-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#contacta:-moz-placeholder {
+section#contactanos:-moz-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#contacta::-moz-placeholder {
+section#contactanos::-moz-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#contacta:-ms-input-placeholder {
+section#contactanos:-ms-input-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#contacta .text-danger {
+section#contactanos .text-danger {
     color: #e74c3c;
 }
 
