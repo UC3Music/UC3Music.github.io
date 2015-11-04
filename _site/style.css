@@ -665,9 +665,9 @@ aside.clients img {
 section#contactanos {
     background-color: #222;
 	/* 222 */
-    /*background-image: url(../img/map-image.png);
-    background-position: center;
-    background-repeat: no-repeat;*/
+    background-image: url(../img/big-guitar.png);
+    background-position: left bottom;
+    background-repeat: no-repeat;
 }
 
 section#contactanos .section-heading {
