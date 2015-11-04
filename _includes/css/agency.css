@@ -655,68 +655,69 @@ aside.clients img {
     margin: 50px auto;
 }
 
-section#contact {
+section#contactanos {
     background-color: #222;
-    background-image: url(../img/map-image.png);
-    background-position: center;
+	/* 222 */
+    background-image: url(../img/big-guitar.png);
+    background-position: left bottom;
     background-repeat: no-repeat;
 }
 
-section#contact .section-heading {
+section#contactanos .section-heading {
     color: #fff;
 }
 
-section#contact .form-group {
+section#contactanos .form-group {
     margin-bottom: 25px;
 }
 
-section#contact .form-group input,
-section#contact .form-group textarea {
+section#contactanos .form-group input,
+section#contactanos .form-group textarea {
     padding: 20px;
 }
 
-section#contact .form-group input.form-control {
+section#contactanos .form-group input.form-control {
     height: auto;
 }
 
-section#contact .form-group textarea.form-control {
+section#contactanos .form-group textarea.form-control {
     height: 236px;
 }
 
-section#contact .form-control:focus {
+section#contactanos .form-control:focus {
     border-color: #{{ site.color.primary }};
     box-shadow: none;
 }
 
-section#contact::-webkit-input-placeholder {
+section#contactanos::-webkit-input-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact:-moz-placeholder {
+section#contactanos:-moz-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact::-moz-placeholder {
+section#contactanos::-moz-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact:-ms-input-placeholder {
+section#contactanos:-ms-input-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact .text-danger {
+section#contactanos .text-danger {
     color: #e74c3c;
 }
 
@@ -740,11 +741,11 @@ footer ul.quicklinks {
     line-height: 40px;
 }
 
-ul.social-buttons {
+ul.cool-buttons {
     margin-bottom: 0;
 }
 
-ul.social-buttons li a {
+ul.cool-buttons li a {
     display: block;
     width: 40px;
     height: 40px;
@@ -759,9 +760,9 @@ ul.social-buttons li a {
     transition: all .3s;
 }
 
-ul.social-buttons li a:hover,
-ul.social-buttons li a:focus,
-ul.social-buttons li a:active {
+ul.cool-buttons li a:hover,
+ul.cool-buttons li a:focus,
+ul.cool-buttons li a:active {
     background-color: #{{ site.color.primary }};
 }
 

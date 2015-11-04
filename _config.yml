@@ -10,6 +10,7 @@ baseurl: ""
 url: "http://uc3music.github.io" 
 twitter_username: UC3Music
 github_username:  uc3music
+mailing_list: https://groups.google.com/forum/#!forum/uc3music-e
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -54,16 +55,20 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: youtube
+    url: https://www.youtube.com/user/uc3musice
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/UC3Music
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/UC3Music
+  - title: google-plus 
+    url: https://plus.google.com/106612607188215480971
+  - title: envelope
+    url : mailto:uc3music@gmail.com 
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/UC3Music
+  - title: linkedin
+    url: https://www.linkedin.com/in/uc3music
 
 # Postal address (add as many lines as necessary)
 address:
