@@ -1,11 +1,11 @@
 ---
-title: UC3Moy
+title: uC3Moy
 subtitle: Amplificador de Auriculares
 layout: default
 modal-id: 1
 date: 2015-04-22
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: uC3Moy.png
+thumbnail: uC3Moy-thumbnail.png
 alt: image-alt
 project-date: April 2015
 link: https://github.com/UC3Music/uC3Moy

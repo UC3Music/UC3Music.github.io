@@ -4,8 +4,8 @@ subtitle: Theremin Resistivo
 layout: default
 modal-id: 2
 date: 2015-10-29
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: Drawdio.png
+thumbnail: Drawdio-thumbnail.png
 alt: image-alt
 project-date: April 2014
 link: https://github.com/UC3Music/drawdio
