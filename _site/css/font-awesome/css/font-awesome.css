@@ -763,7 +763,7 @@
 .fa-google-plus-square:before {
   content: "\f0d4";
 }
-.fa-google-plus:before {
+.my-fa-google-plus:before {
   content: "\f0d5";
 }
 .fa-money:before {
@@ -796,10 +796,10 @@
 .fa-sort-asc:before {
   content: "\f0de";
 }
-.fa-envelope:before {
+.my-fa-envelope:before {
   content: "\f0e0";
 }
-.fa-linkedin:before {
+.my-fa-linkedin:before {
   content: "\f0e1";
 }
 .fa-rotate-left:before,
@@ -1195,7 +1195,7 @@
 .fa-youtube-square:before {
   content: "\f166";
 }
-.fa-youtube:before {
+.my-fa-youtube:before {
   content: "\f167";
 }
 .fa-xing:before {
