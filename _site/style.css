@@ -748,11 +748,11 @@ footer ul.quicklinks {
     line-height: 40px;
 }
 
-ul.social-buttons {
+ul.cool-buttons {
     margin-bottom: 0;
 }
 
-ul.social-buttons li a {
+ul.cool-buttons li a {
     display: block;
     width: 40px;
     height: 40px;
@@ -767,9 +767,9 @@ ul.social-buttons li a {
     transition: all .3s;
 }
 
-ul.social-buttons li a:hover,
-ul.social-buttons li a:focus,
-ul.social-buttons li a:active {
+ul.cool-buttons li a:hover,
+ul.cool-buttons li a:focus,
+ul.cool-buttons li a:active {
     background-color: #c22425;
 }
 
