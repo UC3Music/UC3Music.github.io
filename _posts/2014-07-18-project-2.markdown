@@ -1,0 +1,15 @@
+---
+title: Drawdio
+subtitle: Theremin Resistivo
+layout: default
+modal-id: 2
+date: 2015-10-29
+img: Drawdio.png
+thumbnail: Drawdio-thumbnail.png
+alt: image-alt
+project-date: April 2014
+link: https://github.com/UC3Music/drawdio
+category: Amplificadores
+description: El lápiz musical! El Drawdio es un sencillo sintetizador de sonido electrónico en un lápiz. Fue diseñado por Jay Silver desde el MIT Media Lab. El Drawdio reproduce un tono musical cuya frecuencia varía dependiendo de la resistencia eléctrica entre dos puntos; El cable enrollado en el lápiz es un punto y la mina del lápiz es el otro. Cuando sujetas el Drawdio con tu mano, tu cuerpo se convierte en parte del circuito resistivo y podrás hacer un montón de trucos, ¡como pintar un pequeño piano y tocar una melodía, o convertir en música cualquier objeto que desees; agua, pinceles, comida, personas... o cualquier objeto conductor!
+
+---

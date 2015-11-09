@@ -1,0 +1,15 @@
+---
+title: uC3Moy
+subtitle: Amplificador de Auriculares
+layout: default
+modal-id: 1
+date: 2015-04-22
+img: uC3Moy.png
+thumbnail: uC3Moy-thumbnail.png
+alt: image-alt
+project-date: April 2015
+link: https://github.com/UC3Music/uC3Moy
+category: Amplificadores
+description: El amplificador uC3Moy es una versión del famoso circuito CMoy, diseñado por Chu Moy. Su funcionamiento y construcción es muy sencilla, y además de ofrecerte más volumen consigue reducir la compresión y bajar las distorsiones. Esto lo conseguimos adaptando impedancias y dejando el trabajo duro a nuestro amplificador, liberando la carga de nuestro reproductor.
+
+---
