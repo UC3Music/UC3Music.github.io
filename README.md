@@ -1,30 +1,12 @@
-Agency Jekyll theme
+UC3Music website
 ====================
+<p align="center">
+<img src="img/logos/pick.png" width="400" align="center">
+</p>
 
-Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
+This is the repo that hosts our website, powered by [jekyll](http://jekyllrb.com/).
 
-# How to use
-
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
+We use the [Agency theme](https://github.com/y7kim/agency-jekyll-theme), based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
 
 
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+See our website in action [here](http://uc3music.github.io/).
