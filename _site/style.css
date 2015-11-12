@@ -880,3 +880,9 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #c22425;
 }
+
+@media screen and (max-width: 1000px) {
+    .pick-logo {
+        width: 200px;
+   }
+}
