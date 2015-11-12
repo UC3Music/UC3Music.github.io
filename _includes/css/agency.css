@@ -655,12 +655,20 @@ aside.clients img {
     margin: 50px auto;
 }
 
+
 section#contactanos {
     background-color: #222;
-	/* 222 */
     background-image: url(../img/big-guitar.png);
     background-position: left bottom;
     background-repeat: no-repeat;
+}
+
+
+@media screen and (max-width: 1000px) {
+    section#contactanos {
+        background-color: #222;
+        background-image: none;
+    }
 }
 
 section#contactanos .section-heading {
