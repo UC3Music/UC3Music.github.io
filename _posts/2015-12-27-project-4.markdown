@@ -1,0 +1,15 @@
+---
+title: ABBlind
+subtitle: Dispositivo para pruebas de audio a doble ciego
+layout: default
+modal-id: 4
+date: 2015-12-27
+img: abblind.png
+thumbnail: abblind-thumbnail.png
+alt: image-alt
+project-date: Octubre 2015
+link: https://github.com/UC3Music/ABBlind
+category: Herramientas Audio
+description: ¡Desecha tus prejuicios audiófilos! Con ABBlind podrás hacer pruebas a doble ciego para saber si realmente escuchas diferencias de calidad entre tu viejo equipo de audio y ese nuevo pepino de 1000€ que te quieren vender. ¿Merece la pena la compra? ¡Averígualo con ABBlind!
+
+---
