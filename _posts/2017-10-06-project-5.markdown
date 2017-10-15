@@ -1,0 +1,14 @@
+---
+title: PolyTuna
+subtitle: Pedal afinador polifónico
+layout: default
+modal-id: 5
+date: 2017-10-06
+img: polytuna.png
+thumbnail: polytuna-thumbnail.png
+alt: pedal-afinador
+project-date: Octubre 2017
+link: https://github.com/UC3Music/PolyTuna
+category: Herramientas Audio
+description: El PolyTuna es un pedal afinador polifónico DIY similar a otros modelos comerciales existentes en el mercado (como el Polytune). Permite conocer el estado de afinación de todas las cuerdas de tu guitarra de un solo rasgueo, haciendo la afinación más rápida. Muy útil para tocar en directo, cuando el tiempo para afinar es muy reducido.
+---
