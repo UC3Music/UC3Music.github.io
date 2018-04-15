@@ -1,0 +1,14 @@
+---
+title: MetroNemo
+subtitle: Metrónomo vibratorio inalámbrico
+layout: default
+modal-id: 6
+date: 2018-04-15
+img: metronemo.png
+thumbnail: metronemo-thumbnail.png
+alt: metronomo
+project-date: Marzo 2018
+link: https://github.com/UC3Music/MetroNemo
+category: Herramientas Audio
+description: El MetroNemo es un metrónomo DIY incorporado en una pulsera que vibra, similar a otros modelos comerciales existentes en el mercado (como el Soundbrenner). Es útil para poder percibir el pulso sin importar el sonido externo que pudiera interferir.
+---
