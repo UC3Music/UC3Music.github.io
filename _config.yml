@@ -50,25 +50,25 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: google-plus
+    - title: instagram
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: youtube
-    url: https://www.youtube.com/user/uc3musice
+    url: https://www.youtube.com/UC3Music
   - title: twitter
     url: http://twitter.com/UC3Music
   - title: facebook
     url: https://www.facebook.com/UC3Music
-  - title: google-plus 
-    url: https://plus.google.com/106612607188215480971
+  - title: instagram 
+    url: https://instagram.com/uc3music
   - title: envelope
     url : mailto:uc3music@gmail.com 
   - title: github
     url: http://github.com/UC3Music
   - title: linkedin
-    url: https://www.linkedin.com/in/uc3music
+    url: https://www.linkedin.com/company/uc3music/
 
 # Postal address (add as many lines as necessary)
 address:
